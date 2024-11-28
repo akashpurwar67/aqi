@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//akashpurwar67.github.io/aqi/static/css/main.a0e12fd6.css",
-    "main.js": "/https//akashpurwar67.github.io/aqi/static/js/main.18c3ddbe.js",
-    "static/js/453.1edb75e0.chunk.js": "/https//akashpurwar67.github.io/aqi/static/js/453.1edb75e0.chunk.js",
-    "index.html": "/https//akashpurwar67.github.io/aqi/index.html",
-    "main.a0e12fd6.css.map": "/https//akashpurwar67.github.io/aqi/static/css/main.a0e12fd6.css.map",
-    "main.18c3ddbe.js.map": "/https//akashpurwar67.github.io/aqi/static/js/main.18c3ddbe.js.map",
-    "453.1edb75e0.chunk.js.map": "/https//akashpurwar67.github.io/aqi/static/js/453.1edb75e0.chunk.js.map"
+    "main.css": "/aqi/static/css/main.a0e12fd6.css",
+    "main.js": "/aqi/static/js/main.def124b0.js",
+    "static/js/453.1edb75e0.chunk.js": "/aqi/static/js/453.1edb75e0.chunk.js",
+    "index.html": "/aqi/index.html",
+    "main.a0e12fd6.css.map": "/aqi/static/css/main.a0e12fd6.css.map",
+    "main.def124b0.js.map": "/aqi/static/js/main.def124b0.js.map",
+    "453.1edb75e0.chunk.js.map": "/aqi/static/js/453.1edb75e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0e12fd6.css",
-    "static/js/main.18c3ddbe.js"
+    "static/js/main.def124b0.js"
   ]
 }
